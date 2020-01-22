@@ -1,0 +1,17 @@
+atom-packages
+
+atom-beautify
+atom-detect-indentation
+autoclose-html
+fold-functions
+highlight-selected
+javascript-snippets
+language-cshtml		disabled
+linter
+linter-csslint
+linter_htmlhint
+linter-jshint
+script
+todo-show
+tree-ignore
+linter-js-standard	disabled

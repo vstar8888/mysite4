@@ -1,0 +1,8 @@
+{
+  "name": "MySite4",
+  "description": "MySite4",
+  "repository": "https://github.com/vstar8888/mysite4.git",
+  "logo": "http://localhost:5000//public/node.svg",
+  "keywords": ["node", "express"],
+  "image": "x/nodejs"
+}
